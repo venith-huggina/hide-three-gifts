@@ -4,7 +4,9 @@ This is a simple game where you have to find three gifts in a grid. There are th
 
 # Demo
 
-## https://venith-huggina.github.io/hides-three-gifts/
+## https://venith-huggina.github.io/hide-three-gifts/
+
+![image](https://user-images.githubusercontent.com/84177920/198501831-0a3eb329-8121-4cc3-b3f1-89745e669115.png)
 
 # functions
 
@@ -22,18 +24,8 @@ This function will clear the grid.
 
 # How to run the project
 
-## Clone the project
+- Clone the project `git clone https://github.com/venith-huggina/hide-three-gifts.git`
+- Open the `index.html` file in the browser
 
-## Open the index.html file in the browser
-
-# How to contribute
-
-## Fork the project
-
-## Clone the project
-
-## Make changes
-
-## Create a pull request
 
 
